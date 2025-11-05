@@ -1,6 +1,6 @@
 # 📉 Anomaly Detection in Graphs
 
-This project focuses on detecting **anomalies in graph-structured data** using Graph Neural Networks (GNNs). It includes implementations of both Graph Convolutional Networks (GCNs) and Graph Attention Networks (GATs). You can learn more by reading the [https://github.com/lkuresevic/anomaly-detection/blob/main/Anomaly%20Detection%20on%20Attributed%20Netwokrs%20Using%20Graph%20Neural%20Networks.pdf](report).
+This project focuses on detecting **anomalies in graph-structured data** using Graph Neural Networks (GNNs). It includes implementations of both Graph Convolutional Networks (GCNs) and Graph Attention Networks (GATs). You can learn more by reading the (https://github.com/lkuresevic/anomaly-detection/blob/main/Anomaly%20Detection%20on%20Attributed%20Netwokrs%20Using%20Graph%20Neural%20Networks.pdf)[report].
 
 ## 🏗️ Project Structure
 
