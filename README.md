@@ -2,10 +2,9 @@
 
 This project focuses on detecting **anomalies in graph-structured data** using Graph Neural Networks (GNNs). It includes implementations of both Graph Convolutional Networks (GCNs) and Graph Attention Networks (GATs).
 
----
-
 ## 🏗️ Project Structure
 
+``
 anomaly-detection/
 ├── analysis/
 │   ├── results/        # Training results (e.g., loss curves, metrics in CSV format)
@@ -23,3 +22,4 @@ anomaly-detection/
 ├── .gitignore          # Files and directories to be ignored by Git
 ├── LICENSE             # Project license (MIT)
 └── README.md           # Project documentation and setup guide
+``
