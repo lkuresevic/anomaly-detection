@@ -4,7 +4,7 @@ This project focuses on detecting **anomalies in graph-structured data** using G
 
 ## 🏗️ Project Structure
 
-``
+```
 anomaly-detection/
 ├── analysis/
 │   ├── results/        # Training results (e.g., loss curves, metrics in CSV format)
