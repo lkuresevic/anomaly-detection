@@ -1,26 +1,26 @@
-# 📉 Anomaly Detection in Graphs
+# Anomaly Detection in Graphs
 
 This project focuses on detecting **anomalies in graph-structured data** using Graph Neural Networks (GNNs). It includes implementations of both Graph Convolutional Networks (GCNs) and Graph Attention Networks (GATs). You can learn more by reading the affiliated report: [GNN-Based Anomaly Detection in Attributed Networks](https://github.com/lkuresevic/anomaly-detection/blob/main/GNN-Based%20Anomaly%20Detection%20in%20Attributed%20Networks.pdf)
 .
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 anomaly-detection/
 ├── analysis/
-│   ├── results/        # Training results (e.g., loss curves, metrics in CSV format)
-│   ├── plots/          # Generated plots (e.g., ROC curves, feature distributions)
-│   └── plot_results.py # Script for generating and saving visualization plots
-├── data/               # Processed datasets, ready for model input (including injected anomalies)
-├── raw_data/           # Original, raw datasets (e.g., Cora, CiteSeer)
-├── src/                # Core Python source code
-│   ├── layers/         # GNN Layer Implementations
-│   ├── models/         # Model Definitions
-│   ├── prepare_data.py # Data preprocessing, graph manipulation, and anomaly injection logic
-│   ├── train.py        # Core training and evaluation pipeline/functions
-│   ├── main.py         # Primary entry point for executing training and testing
-│   └── utils.py        # General utility and helper functions
-├── .gitignore          # Files and directories to be ignored by Git
-├── LICENSE             # Project license (MIT)
-└── README.md           # Project documentation and setup guide
+│   ├── results/        
+│   ├── plots/          
+│   └── plot_results.py 
+├── data/              
+├── raw_data/          
+├── src/           
+│   ├── layers/       
+│   ├── models/       
+│   ├── prepare_data.py 
+│   ├── train.py       
+│   ├── main.py      
+│   └── utils.py       
+├── .gitignore        
+├── LICENSE            
+└── README.md     
 ``
